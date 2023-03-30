@@ -1,4 +1,4 @@
-# Animated Login Form
+# Animated Login Form by [Bedimcode](https://github.com/bedimcode)
 ## Explicación para la creación de este formulario.
 
 Basados en la clase _*.login*_ que envuelve a la imagen de fondo y al formulario, podemos decir que: 
